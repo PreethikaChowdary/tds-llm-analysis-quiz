@@ -7,5 +7,5 @@ services:
     startCommand: ""
     envVars:
       - key: TDS_SECRET
-        value: your-secret-here
+        value: 1771771
 

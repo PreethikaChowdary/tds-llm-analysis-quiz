@@ -1,8 +1,8 @@
 fastapi
 uvicorn
 httpx
-playwright
 pydantic
 pandas
 bs4
 pdfplumber
+

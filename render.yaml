@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: tds-llm-analysis
+    env: docker
+    plan: free
+    buildCommand: ""
+    startCommand: ""
+    envVars:
+      - key: TDS_SECRET
+        value: your-secret-here
+
